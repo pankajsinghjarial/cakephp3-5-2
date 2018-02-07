@@ -1,0 +1,1378 @@
+2017-10-30 13:11:06 Warning: Warning (2): Missing argument 1 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:06 Warning: Warning (2): Missing argument 2 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:06 Warning: Warning (2): Missing argument 3 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:06 Warning: Warning (2): Missing argument 4 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:06 Warning: Headers already sent in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850
+2017-10-30 13:11:06 Error: [Error] Class 'Aws\S3\S3Client' not found in E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php on line 38
+Request URL: /
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php(44): App\Controller\Component\CommonComponent->amazonUpload()
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\PagesController->display('home')
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\PagesController))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#16 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#17 {main}
+
+
+2017-10-30 13:11:38 Warning: Warning (2): Missing argument 1 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:38 Warning: Warning (2): Missing argument 2 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:38 Warning: Warning (2): Missing argument 3 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:38 Warning: Warning (2): Missing argument 4 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:11:38 Warning: Headers already sent in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850
+2017-10-30 13:11:38 Error: [Error] Class 'Aws\S3\S3Client' not found in E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php on line 38
+Request URL: /
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php(44): App\Controller\Component\CommonComponent->amazonUpload()
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\PagesController->display('home')
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\PagesController))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#16 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#17 {main}
+
+
+2017-10-30 13:19:27 Warning: Warning (2): Missing argument 1 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:27 Warning: Warning (2): Missing argument 2 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:27 Warning: Warning (2): Missing argument 3 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:27 Warning: Warning (2): Missing argument 4 for App\Controller\Component\CommonComponent::amazonUpload(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php on line 44 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 36]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 36
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:27 Warning: Warning (2): fopen(E:\UwAmp\www\cakephp-3-5-2\webroot\) [<a href='https://secure.php.net/function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php, line 50]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+fopen - [internal], line ??
+App\Controller\Component\CommonComponent::amazonUpload() - APP/Controller\Component\CommonComponent.php, line 50
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 44
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 441
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 119
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:28 Error: [Guzzle\Common\Exception\InvalidArgumentException] Invalid resource type
+Request URL: /
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Aws\Common\Client\UploadBodyListener.php(89): Guzzle\Http\EntityBody::factory(false)
+#1 [internal function]: Aws\Common\Client\UploadBodyListener->onCommandBeforePrepare(Object(Guzzle\Common\Event), 'command.before_...', Object(Symfony\Component\EventDispatcher\EventDispatcher))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Symfony\Component\EventDispatcher\EventDispatcher.php(164): call_user_func(Array, Object(Guzzle\Common\Event), 'command.before_...', Object(Symfony\Component\EventDispatcher\EventDispatcher))
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Symfony\Component\EventDispatcher\EventDispatcher.php(53): Symfony\Component\EventDispatcher\EventDispatcher->doDispatch(Array, 'command.before_...', Object(Guzzle\Common\Event))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Common\AbstractHasDispatcher.php(40): Symfony\Component\EventDispatcher\EventDispatcher->dispatch('command.before_...', Object(Guzzle\Common\Event))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Service\Command\AbstractCommand.php(233): Guzzle\Common\AbstractHasDispatcher->dispatch('command.before_...', Array)
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Service\Client.php(205): Guzzle\Service\Command\AbstractCommand->prepare()
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Service\Client.php(136): Guzzle\Service\Client->prepareCommand(Object(Aws\S3\Command\S3Command))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Service\Command\AbstractCommand.php(153): Guzzle\Service\Client->execute(Object(Aws\S3\Command\S3Command))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Service\Command\AbstractCommand.php(189): Guzzle\Service\Command\AbstractCommand->execute()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Guzzle\Service\Client.php(76): Guzzle\Service\Command\AbstractCommand->getResult()
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\aws\Aws\Common\Client\AbstractClient.php(104): Guzzle\Service\Client->__call('PutObject', Array)
+#12 E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php(56): Aws\Common\Client\AbstractClient->__call('putObject', Array)
+#13 E:\UwAmp\www\cakephp-3-5-2\src\Controller\Component\CommonComponent.php(56): Aws\S3\S3Client->putObject(Array)
+#14 E:\UwAmp\www\cakephp-3-5-2\src\Controller\PagesController.php(44): App\Controller\Component\CommonComponent->amazonUpload()
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\PagesController->display('home')
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\PagesController))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#20 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#21 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#22 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#23 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#24 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#25 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#26 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#27 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#28 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#29 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#30 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#31 {main}
+
+
+2017-10-30 13:19:28 Warning: Warning (512): Unable to emit headers. Headers sent in file=E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php line=850 in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 48]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 48
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 149]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE\src\Http\ResponseEmitter.php, line 149
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 54
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 181]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 55
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:19:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 181]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 55
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 13:47:21 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\AppController.php, line 58]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-10-30 13:47:53 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\AppController.php, line 77]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-10-30 13:48:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login could not be found.
+Exception Attributes: array (
+  'class' => 'Login',
+  'plugin' => false,
+  'prefix' => false,
+  '_ext' => false,
+)
+Request URL: /login
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(38): Cake\Http\ControllerFactory->missingController(Object(Cake\Http\ServerRequest))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#15 {main}
+
+
+2017-10-30 13:51:45 Error: Fatal Error (1): Call to a member function read() on boolean in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php, line 30]
+Request URL: /users
+Referer URL: http://cakephp.loc/users/login
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-10-30 13:51:45 Warning: Headers already sent in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php:30
+2017-10-30 13:51:45 Error: [Cake\Error\FatalErrorException] Call to a member function read() on boolean in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Referer URL: http://cakephp.loc/users/login
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'E:\\UwAmp\\www\\ca...', 30)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-10-30 14:01:34 Error: Fatal Error (4): syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\AppController.php, line 43]
+Request URL: /clients/login
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-10-30 14:01:57 Warning: Warning (2): Missing argument 1 for Cake\Http\ServerRequest::getParam(), called in E:\UwAmp\www\cakephp-3-5-2\src\Controller\AppController.php on line 43 and defined in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ServerRequest.php, line 1930]
+Request URL: /clients/login
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Cake\Http\ServerRequest::getParam() - CORE\src\Http\ServerRequest.php, line 1930
+App\Controller\AppController::initialize() - APP/Controller\AppController.php, line 43
+Cake\Controller\Controller::__construct() - CORE\src\Controller\Controller.php, line 263
+ReflectionClass::newInstance() - [internal], line ??
+Cake\Http\ControllerFactory::create() - CORE\src\Http\ControllerFactory.php, line 45
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 90
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:04:45 Error: [Cake\Controller\Exception\MissingActionException] Action ClientsController::login() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'ClientsController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => false,
+)
+Request URL: /clients/login
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\ClientsController))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#15 {main}
+
+
+2017-10-30 14:09:46 Error: [Cake\View\Exception\MissingTemplateException] Template file "Clients\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clients\\login.ctp',
+)
+Request URL: /clients/login?redirect=%2Fclients%2Fadd
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(761): Cake\View\View->_getViewFileName(NULL)
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(624): Cake\View\View->render(NULL, NULL)
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(125): Cake\Controller\Controller->render()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\ClientsController))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#16 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#17 {main}
+
+
+2017-10-30 14:10:53 Warning: Warning (4096): Argument 1 passed to App\Controller\ClientsController::beforeFilter() must be an instance of App\Controller\Event, instance of Cake\Event\Event given, called in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Event\EventManager.php on line 416 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\ClientsController.php, line 15]
+Request URL: /clients/login?redirect=%2Fclients%2Fadd
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\ClientsController::beforeFilter() - APP/Controller\ClientsController.php, line 15
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 416
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 393
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 110
+Cake\Controller\Controller::startupProcess() - CORE\src\Controller\Controller.php, line 503
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 114
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:10:53 Warning: Warning (512): Unable to emit headers. Headers sent in file=E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php line=850 in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 48]
+Request URL: /clients/login?redirect=%2Fclients%2Fadd
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 48
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:10:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 149]
+Request URL: /clients/login?redirect=%2Fclients%2Fadd
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE\src\Http\ResponseEmitter.php, line 149
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 54
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:10:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 181]
+Request URL: /clients/login?redirect=%2Fclients%2Fadd
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 55
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:10:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 181]
+Request URL: /clients/login?redirect=%2Fclients%2Fadd
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 55
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:10:59 Warning: Warning (4096): Argument 1 passed to App\Controller\ClientsController::beforeFilter() must be an instance of App\Controller\Event, instance of Cake\Event\Event given, called in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Event\EventManager.php on line 416 and defined in [E:\UwAmp\www\cakephp-3-5-2\src\Controller\ClientsController.php, line 15]
+Request URL: /clients/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Controller\ClientsController::beforeFilter() - APP/Controller\ClientsController.php, line 15
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 416
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 393
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 110
+Cake\Controller\Controller::startupProcess() - CORE\src\Controller\Controller.php, line 503
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 114
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 103
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 107
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 93
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 81
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:11:00 Warning: Warning (512): Unable to emit headers. Headers sent in file=E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php line=850 in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 48]
+Request URL: /clients/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 48
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:11:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 149]
+Request URL: /clients/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE\src\Http\ResponseEmitter.php, line 149
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 54
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:11:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 181]
+Request URL: /clients/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 55
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:11:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850) in [E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 181]
+Request URL: /clients/add
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 55
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 106
+[main] - ROOT\webroot\index.php, line 40
+
+
+
+2017-10-30 14:12:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Clietns could not be found.
+Exception Attributes: array (
+  'class' => 'Clietns',
+  'plugin' => false,
+  'prefix' => false,
+  '_ext' => false,
+)
+Request URL: /clietns
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(38): Cake\Http\ControllerFactory->missingController(Object(Cake\Http\ServerRequest))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#15 {main}
+
+
+2018-01-24 13:40:31 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:40:42 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:40:55 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:40:55 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:08 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:09 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:09 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:09 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:14 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:14 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:14 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:41:14 Error: [ParseError] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 30
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\UwAmp\\www\\ca...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controller\\...')
+#2 [internal function]: spl_autoload_call('App\\Controller\\...')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(152): class_exists('App\\Controller\\...')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Core\App.php(64): Cake\Core\App::_classExistsInBase('\\Controller\\Use...', 'App')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(88): Cake\Core\App::className('Users', 'Controller', 'Controller')
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ControllerFactory.php(36): Cake\Http\ControllerFactory->getControllerClass(Object(Cake\Http\ServerRequest))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(90): Cake\Http\ControllerFactory->create(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#21 {main}
+
+
+2018-01-24 13:42:47 Error: [InvalidArgumentException] Cannot convert value to integer
+Request URL: /users
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php(37): Cake\Database\Type\IntegerType->toDatabase(Array, Object(Cake\Database\Driver\Mysql))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php(69): Cake\Database\Statement\StatementDecorator->cast(Array, Object(Cake\Database\Type\IntegerType))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(107): Cake\Database\Statement\PDOStatement->bindValue('c0', Array, 'integer')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(98): Cake\Database\Statement\StatementDecorator->bindValue('c0', Array, 'integer')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\ValueBinder.php(147): Cake\Database\Log\LoggingStatement->bindValue('c0', Array, 'integer')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(313): Cake\Database\ValueBinder->attachTo(Object(Cake\Database\Log\LoggingStatement))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Query.php(213): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(1037): Cake\Database\Query->execute()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(287): Cake\ORM\Query->_execute()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(986): Cake\ORM\Query->_all()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(304): Cake\ORM\Query->all()
+#11 E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php(30): Cake\ORM\Query->toArray()
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\UsersController->index()
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#21 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#22 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#23 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#24 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#25 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#26 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#27 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#28 {main}
+
+
+2018-01-24 13:43:20 Error: [InvalidArgumentException] Cannot convert value to integer
+Request URL: /users
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php(37): Cake\Database\Type\IntegerType->toDatabase(Array, Object(Cake\Database\Driver\Mysql))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php(69): Cake\Database\Statement\StatementDecorator->cast(Array, Object(Cake\Database\Type\IntegerType))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(107): Cake\Database\Statement\PDOStatement->bindValue('c0', Array, 'integer')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(98): Cake\Database\Statement\StatementDecorator->bindValue('c0', Array, 'integer')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\ValueBinder.php(147): Cake\Database\Log\LoggingStatement->bindValue('c0', Array, 'integer')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(313): Cake\Database\ValueBinder->attachTo(Object(Cake\Database\Log\LoggingStatement))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Query.php(213): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(1037): Cake\Database\Query->execute()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(287): Cake\ORM\Query->_execute()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(986): Cake\ORM\Query->_all()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(304): Cake\ORM\Query->all()
+#11 E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php(31): Cake\ORM\Query->toArray()
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\UsersController->index()
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#21 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#22 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#23 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#24 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#25 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#26 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#27 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#28 {main}
+
+
+2018-01-24 13:43:22 Error: [InvalidArgumentException] Cannot convert value to integer
+Request URL: /users
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php(37): Cake\Database\Type\IntegerType->toDatabase(Array, Object(Cake\Database\Driver\Mysql))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php(69): Cake\Database\Statement\StatementDecorator->cast(Array, Object(Cake\Database\Type\IntegerType))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(107): Cake\Database\Statement\PDOStatement->bindValue('c0', Array, 'integer')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(98): Cake\Database\Statement\StatementDecorator->bindValue('c0', Array, 'integer')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\ValueBinder.php(147): Cake\Database\Log\LoggingStatement->bindValue('c0', Array, 'integer')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(313): Cake\Database\ValueBinder->attachTo(Object(Cake\Database\Log\LoggingStatement))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Query.php(213): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(1037): Cake\Database\Query->execute()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(287): Cake\ORM\Query->_execute()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(986): Cake\ORM\Query->_all()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(304): Cake\ORM\Query->all()
+#11 E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php(31): Cake\ORM\Query->toArray()
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\UsersController->index()
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#20 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#21 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#22 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#23 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#24 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#25 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#26 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#27 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#28 {main}
+
+
+2018-01-24 13:44:21 Warning: Headers already sent in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850
+2018-01-24 13:44:21 Error: [Error] Call to a member function toArray() on unknown in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 31
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\UsersController->index()
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#16 {main}
+
+
+2018-01-24 13:44:22 Warning: Headers already sent in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Debugger.php:850
+2018-01-24 13:44:22 Error: [Error] Call to a member function toArray() on unknown in E:\UwAmp\www\cakephp-3-5-2\src\Controller\UsersController.php on line 31
+Request URL: /users
+Client IP: 127.0.0.1
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(441): App\Controller\UsersController->index()
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(119): Cake\Controller\Controller->invokeAction()
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#15 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#16 {main}
+
+
+2018-01-24 13:44:29 Error: [InvalidArgumentException] Cannot convert value to integer
+Request URL: /users
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php(37): Cake\Database\Type\IntegerType->toDatabase(Array, Object(Cake\Database\Driver\Mysql))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php(69): Cake\Database\Statement\StatementDecorator->cast(Array, Object(Cake\Database\Type\IntegerType))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(107): Cake\Database\Statement\PDOStatement->bindValue('c0', Array, 'integer')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(98): Cake\Database\Statement\StatementDecorator->bindValue('c0', Array, 'integer')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\ValueBinder.php(147): Cake\Database\Log\LoggingStatement->bindValue('c0', Array, 'integer')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(313): Cake\Database\ValueBinder->attachTo(Object(Cake\Database\Log\LoggingStatement))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Query.php(213): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(1037): Cake\Database\Query->execute()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(287): Cake\ORM\Query->_execute()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(986): Cake\ORM\Query->_all()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(132): Cake\ORM\Query->all()
+#11 E:\UwAmp\www\cakephp-3-5-2\src\Template\Users\index.ctp(28): Cake\ORM\Query->getIterator()
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(1196): include('E:\\UwAmp\\www\\ca...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(1157): Cake\View\View->_evaluate('E:\\UwAmp\\www\\ca...', Array)
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(765): Cake\View\View->_render('E:\\UwAmp\\www\\ca...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(624): Cake\View\View->render(NULL, NULL)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(125): Cake\Controller\Controller->render()
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#20 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#21 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#22 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#23 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#24 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#25 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#26 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#27 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#28 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#29 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#30 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#31 {main}
+
+
+2018-01-24 13:44:32 Error: [InvalidArgumentException] Cannot convert value to integer
+Request URL: /users
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php(37): Cake\Database\Type\IntegerType->toDatabase(Array, Object(Cake\Database\Driver\Mysql))
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php(69): Cake\Database\Statement\StatementDecorator->cast(Array, Object(Cake\Database\Type\IntegerType))
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(107): Cake\Database\Statement\PDOStatement->bindValue('c0', Array, 'integer')
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(98): Cake\Database\Statement\StatementDecorator->bindValue('c0', Array, 'integer')
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\ValueBinder.php(147): Cake\Database\Log\LoggingStatement->bindValue('c0', Array, 'integer')
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(313): Cake\Database\ValueBinder->attachTo(Object(Cake\Database\Log\LoggingStatement))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Query.php(213): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(1037): Cake\Database\Query->execute()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(287): Cake\ORM\Query->_execute()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\ORM\Query.php(986): Cake\ORM\Query->_all()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(132): Cake\ORM\Query->all()
+#11 E:\UwAmp\www\cakephp-3-5-2\src\Template\Users\index.ctp(28): Cake\ORM\Query->getIterator()
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(1196): include('E:\\UwAmp\\www\\ca...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(1157): Cake\View\View->_evaluate('E:\\UwAmp\\www\\ca...', Array)
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\View\View.php(765): Cake\View\View->_render('E:\\UwAmp\\www\\ca...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Controller\Controller.php(624): Cake\View\View->render(NULL, NULL)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(125): Cake\Controller\Controller->render()
+#17 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\ActionDispatcher.php(93): Cake\Http\ActionDispatcher->_invoke(Object(App\Controller\UsersController))
+#18 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\BaseApplication.php(103): Cake\Http\ActionDispatcher->dispatch(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#19 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Http\BaseApplication->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#20 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php(107): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#21 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\RoutingMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#22 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php(88): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#23 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Routing\Middleware\AssetMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#24 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php(93): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#25 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): Cake\Error\Middleware\ErrorHandlerMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#26 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php(52): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#27 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(65): DebugKit\Middleware\DebugKitMiddleware->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response), Object(Cake\Http\Runner))
+#28 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Runner.php(51): Cake\Http\Runner->__invoke(Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#29 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Http\Server.php(81): Cake\Http\Runner->run(Object(Cake\Http\MiddlewareQueue), Object(Cake\Http\ServerRequest), Object(Cake\Http\Response))
+#30 E:\UwAmp\www\cakephp-3-5-2\webroot\index.php(40): Cake\Http\Server->run()
+#31 {main}
+
+

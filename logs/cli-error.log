@@ -1,0 +1,115 @@
+2017-09-29 05:05:00 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 47
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(47): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1016): Cake\Database\Connection->schemaCollection()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(968): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(209): Bake\Shell\Task\ModelTask->listAll()
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(127): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'specification_v...', 'SpecificationVe...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(97): Bake\Shell\Task\ModelTask->bake('SpecificationVe...')
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(508): Bake\Shell\Task\ModelTask->main('specification_v...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(501): Cake\Console\Shell->runCommand(Array, false, Array)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(140): Cake\Console\Shell->runCommand(Array, true)
+#17 E:\UwAmp\www\cakephp-3-5-2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#18 {main}
+
+
+2017-09-29 05:06:15 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 47
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(47): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1016): Cake\Database\Connection->schemaCollection()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(968): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(209): Bake\Shell\Task\ModelTask->listAll()
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(127): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'specification_v...', 'SpecificationVe...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(97): Bake\Shell\Task\ModelTask->bake('SpecificationVe...')
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(508): Bake\Shell\Task\ModelTask->main('specification_v...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(501): Cake\Console\Shell->runCommand(Array, false, Array)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(140): Cake\Console\Shell->runCommand(Array, true)
+#17 E:\UwAmp\www\cakephp-3-5-2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#18 {main}
+
+
+2017-09-29 05:06:48 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 47
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(47): PDO->__construct('mysql:host=loca...', 'my_app', 'secret', Array)
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1016): Cake\Database\Connection->schemaCollection()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(968): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(209): Bake\Shell\Task\ModelTask->listAll()
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(127): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'specification_v...', 'SpecificationVe...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(97): Bake\Shell\Task\ModelTask->bake('SpecificationVe...')
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(508): Bake\Shell\Task\ModelTask->main('specification_v...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(501): Cake\Console\Shell->runCommand(Array, false, Array)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(140): Cake\Console\Shell->runCommand(Array, true)
+#17 E:\UwAmp\www\cakephp-3-5-2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#18 {main}
+
+
+2017-09-29 05:07:08 Error: [PDOException] SQLSTATE[HY000] [1049] Unknown database 'gwa_spectool' in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 47
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(47): PDO->__construct('mysql:host=loca...', 'root', 'root', Array)
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1016): Cake\Database\Connection->schemaCollection()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(968): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(209): Bake\Shell\Task\ModelTask->listAll()
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(127): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'specification_v...', 'SpecificationVe...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(97): Bake\Shell\Task\ModelTask->bake('SpecificationVe...')
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(508): Bake\Shell\Task\ModelTask->main('specification_v...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(501): Cake\Console\Shell->runCommand(Array, false, Array)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(140): Cake\Console\Shell->runCommand(Array, true)
+#17 E:\UwAmp\www\cakephp-3-5-2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#18 {main}
+
+
+2017-09-29 05:07:10 Error: [PDOException] SQLSTATE[HY000] [1049] Unknown database 'gwa_spectool' in E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php on line 47
+Stack Trace:
+#0 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(47): PDO->__construct('mysql:host=loca...', 'root', 'root', Array)
+#1 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(104): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(42): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(368): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Database\Connection.php(387): Cake\Database\Connection->getSchemaCollection()
+#8 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(1016): Cake\Database\Connection->schemaCollection()
+#9 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(968): Bake\Shell\Task\ModelTask->_getAllTables()
+#10 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(209): Bake\Shell\Task\ModelTask->listAll()
+#11 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(127): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#12 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'specification_v...', 'SpecificationVe...')
+#13 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(97): Bake\Shell\Task\ModelTask->bake('SpecificationVe...')
+#14 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(508): Bake\Shell\Task\ModelTask->main('specification_v...')
+#15 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\Shell.php(501): Cake\Console\Shell->runCommand(Array, false, Array)
+#16 E:\UwAmp\www\cakephp-3-5-2\vendor\cakephp\cakephp\src\Console\CommandRunner.php(140): Cake\Console\Shell->runCommand(Array, true)
+#17 E:\UwAmp\www\cakephp-3-5-2\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#18 {main}
+
+
